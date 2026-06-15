@@ -1,0 +1,15 @@
+{
+    "gelir": 16000.0,
+    "kategoriler": [
+        "Yemek",
+        "Ulaşım",
+        "Market"
+    ],
+    "harcamalar": [
+        {
+            "kategori": "Ulaşım",
+            "aciklama": "abonman 450",
+            "tutar": 450.0
+        }
+    ]
+}
